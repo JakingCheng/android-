@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Google\Android_read\ninth_code\L_DialogAlert1\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from D:\Google\Android_read\ninth_code\L_DialogAlert1\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from D:\Google\Android_read\ninth_code\L_DialogAlert1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Google\Android_read\ninth_code\L_DialogAlert1\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Google\Android_read\ninth_code\L_DialogAlert1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Google\Android_read\ninth_code\L_DialogAlert1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Google\Android_read\ninth_code\L_DialogAlert1\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\Google\Android_read\ninth_code\L_DialogAlert1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Google\Android_read\ninth_code\L_DialogAlert1\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\Google\Android_read\ninth_code\L_DialogAlert1\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\asus\.android\build-cache\c95dd9e0dc0f9bccd804d098ac5c42794e405d4b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\asus\.android\build-cache\33b81263da8804f07d3c190ab98e88ebbcf9bba1\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\asus\.android\build-cache\fabd74667da1c4347d6b45cd3c3173fb2cb34cb5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\asus\.android\build-cache\c69f98f183b4ec3570102f5948730225e27ea00c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\asus\.android\build-cache\37c3c4feca041884778aff1d3d71a9b7bacb35f1\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\asus\.android\build-cache\dde632483242679f23c65c6885875718a4f42eaf\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\asus\.android\build-cache\659a6a30c4bbec27416333af9137a731775ec76a\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\asus\.android\build-cache\5a7b36e6185a07777004447a629476cbf3d5917b\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\asus\.android\build-cache\270bf9320be9d92832f84ef76270d77333ce6a11\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] C:\Users\asus\.android\build-cache\327b96387a0954e2f84f186788c71b706b6a3bca\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from D:\Google\Android_read\ninth_code\L_DialogAlert1\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from D:\Google\Android_read\ninth_code\L_DialogAlert1\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from D:\Google\Android_read\ninth_code\L_DialogAlert1\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from D:\Google\Android_read\ninth_code\L_DialogAlert1\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from D:\Google\Android_read\ninth_code\L_DialogAlert1\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from D:\Google\Android_read\ninth_code\L_DialogAlert1\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.asus.l_dialogalert1.MainActivity
+ADDED from D:\Google\Android_read\ninth_code\L_DialogAlert1\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from D:\Google\Android_read\ninth_code\L_DialogAlert1\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Google\Android_read\ninth_code\L_DialogAlert1\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from D:\Google\Android_read\ninth_code\L_DialogAlert1\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from D:\Google\Android_read\ninth_code\L_DialogAlert1\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Google\Android_read\ninth_code\L_DialogAlert1\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from D:\Google\Android_read\ninth_code\L_DialogAlert1\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from D:\Google\Android_read\ninth_code\L_DialogAlert1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\asus\.android\build-cache\c95dd9e0dc0f9bccd804d098ac5c42794e405d4b\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\asus\.android\build-cache\33b81263da8804f07d3c190ab98e88ebbcf9bba1\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\asus\.android\build-cache\fabd74667da1c4347d6b45cd3c3173fb2cb34cb5\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\asus\.android\build-cache\c69f98f183b4ec3570102f5948730225e27ea00c\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\asus\.android\build-cache\37c3c4feca041884778aff1d3d71a9b7bacb35f1\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\asus\.android\build-cache\dde632483242679f23c65c6885875718a4f42eaf\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\asus\.android\build-cache\659a6a30c4bbec27416333af9137a731775ec76a\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\asus\.android\build-cache\5a7b36e6185a07777004447a629476cbf3d5917b\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\asus\.android\build-cache\270bf9320be9d92832f84ef76270d77333ce6a11\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] C:\Users\asus\.android\build-cache\327b96387a0954e2f84f186788c71b706b6a3bca\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\asus\.android\build-cache\c95dd9e0dc0f9bccd804d098ac5c42794e405d4b\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\Google\Android_read\ninth_code\L_DialogAlert1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Google\Android_read\ninth_code\L_DialogAlert1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Google\Android_read\ninth_code\L_DialogAlert1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Google\Android_read\ninth_code\L_DialogAlert1\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\asus\.android\build-cache\c95dd9e0dc0f9bccd804d098ac5c42794e405d4b\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\asus\.android\build-cache\33b81263da8804f07d3c190ab98e88ebbcf9bba1\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\asus\.android\build-cache\fabd74667da1c4347d6b45cd3c3173fb2cb34cb5\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\asus\.android\build-cache\c69f98f183b4ec3570102f5948730225e27ea00c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\asus\.android\build-cache\37c3c4feca041884778aff1d3d71a9b7bacb35f1\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\asus\.android\build-cache\dde632483242679f23c65c6885875718a4f42eaf\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\asus\.android\build-cache\659a6a30c4bbec27416333af9137a731775ec76a\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\asus\.android\build-cache\5a7b36e6185a07777004447a629476cbf3d5917b\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\asus\.android\build-cache\270bf9320be9d92832f84ef76270d77333ce6a11\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\asus\.android\build-cache\c95dd9e0dc0f9bccd804d098ac5c42794e405d4b\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\asus\.android\build-cache\c95dd9e0dc0f9bccd804d098ac5c42794e405d4b\output\AndroidManifest.xml:26:9-47

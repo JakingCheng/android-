@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Google\Android_read\ninth_code\L_DialogProgress\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="D:\Google\Android_read\ninth_code\L_DialogProgress\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_c1d532e7a2b62857a0d2fd2d51277017e5ed7bfa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Google\Android_read\ninth_code\L_DialogProgress\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="57dc2d34a598210941f99d94cfe3965689154b04">
+        <dex dex="D:\Google\Android_read\ninth_code\L_DialogProgress\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_9862d76a0cdad83eaf8bf9538f01ecec09bf4c10\classes.dex" />
+    </item>
+
+</items>

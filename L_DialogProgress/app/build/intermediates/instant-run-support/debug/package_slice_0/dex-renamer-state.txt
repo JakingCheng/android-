@@ -1,0 +1,4 @@
+#Thu May 03 20:50:09 CST 2018
+base.0=D\:\\Google\\Android_read\\ninth_code\\L_DialogProgress\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_0
+renamed.0=classes.dex
+file.0=D\:\\Google\\Android_read\\ninth_code\\L_DialogProgress\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_0\\classes.dex

@@ -1,0 +1,7 @@
+#Thu May 03 20:13:46 CST 2018
+base.0=D\:\\Google\\Android_read\\ninth_code\\L_DialogAlert1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_b25071cddc078e2edacea176e79e19528c0d4291
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\Google\\Android_read\\ninth_code\\L_DialogAlert1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_7ebf4f10ae1bfb2bae3d1a1976f69a6a911ad2b4\\classes.dex
+base.1=D\:\\Google\\Android_read\\ninth_code\\L_DialogAlert1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_7ebf4f10ae1bfb2bae3d1a1976f69a6a911ad2b4
+file.0=D\:\\Google\\Android_read\\ninth_code\\L_DialogAlert1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_b25071cddc078e2edacea176e79e19528c0d4291\\classes.dex

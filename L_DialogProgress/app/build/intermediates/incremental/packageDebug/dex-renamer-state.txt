@@ -1,0 +1,7 @@
+#Thu May 03 20:51:19 CST 2018
+base.0=D\:\\Google\\Android_read\\ninth_code\\L_DialogProgress\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c1d532e7a2b62857a0d2fd2d51277017e5ed7bfa
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Google\\Android_read\\ninth_code\\L_DialogProgress\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_9862d76a0cdad83eaf8bf9538f01ecec09bf4c10\\classes.dex
+base.1=D\:\\Google\\Android_read\\ninth_code\\L_DialogProgress\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_9862d76a0cdad83eaf8bf9538f01ecec09bf4c10
+file.0=D\:\\Google\\Android_read\\ninth_code\\L_DialogProgress\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c1d532e7a2b62857a0d2fd2d51277017e5ed7bfa\\classes.dex
